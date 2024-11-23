@@ -10,15 +10,15 @@ body {
 
 .container {
     text-align: center;
-    background-color: #ffffff;
+    background-color: #E8BCB9;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 button {
-    background-color: #47663B;
-    color: white;
+    background-color: #4B4376;
+    color: #E8BCB9;
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
@@ -27,5 +27,5 @@ button {
 }
 
 button:hover {
-    background-color: #1F4529;
+    background-color: #432E54;
 }

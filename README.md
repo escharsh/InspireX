@@ -6,7 +6,7 @@ This is a simple single-page application that displays motivational quotes when 
 
 - Displays a motivational quotes each time the button is clicked.
 - Simple and clean user interface.
-- Easy to customize with your own facts.
+- Easy to customize with your own quotes.
 
 ## Technologies Used
 

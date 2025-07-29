@@ -1,4 +1,4 @@
-# Motivational Quotes Generator  App
+# Quoty Way
 
 This is a simple single-page application that displays motivational quotes when a button is clicked. The app is built using HTML, CSS, and JavaScript.
 

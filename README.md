@@ -22,3 +22,9 @@ To run this app locally, follow these steps:
 
    ```bash
    git clone https://github.com/yuthorius/Motivational-Quotes-Generator.git
+
+   ## 👨‍💻 Author
+
+**I'm Harshvardhan Follow me on**
+💼 GitHub: [@escharsh](https://github.com/escharsh)
+📧 LinkedIn: [Harsh Vardhan](https://www.linkedin.com/in/harsh-vardhan-6748a632a/)
